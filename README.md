@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 ## How to contribute 
 Just send me a note what you want to contribute with. 
 
-## This just a new heading for testing purpose
+## This just a new heading for testing purpose 
+
+## Copyright Peter 2017!
