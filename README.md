@@ -1,6 +1,7 @@
 # Starter Web Project Repo
 ## Introduction 
-This is a simple website project for showing how to use git and github together.
+This is a simple website project for showing how to use git and github together. 
+Adding a line for rebasing example.
 ## Purpose 
 This repository is for showing how Git and GitHub work
 
