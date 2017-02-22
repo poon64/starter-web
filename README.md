@@ -16,4 +16,5 @@ Please fork this repository and then issue Pull requests for review.
 
 ## This just a new heading for testing purpose 
 
-## Copyright Peter 2017!
+## Copyright Peter 2017! 
+All rights reserved!
